@@ -1,0 +1,9 @@
+
+
+body {
+    display: flex;
+}
+.header {
+    display: flex;
+    display: inline-block;
+}
